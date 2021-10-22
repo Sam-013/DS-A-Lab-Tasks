@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulsalam013
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning GUI
-- 💞️ I’m looking to collaborate on System
+- 💞️ I’m looking to collaborate on a System
 - 📫 You can reach me by sending an email
 
 <!---
