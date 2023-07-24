@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @abdulsalam013
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning GUI
-- 💞️ I’m looking to collaborate on a System
-- 📫 You can reach me by sending an email
+- 👋 Data Science & Analytics Lab-2 Tasks
+
 
 <!---
 abdulsalam013/abdulsalam013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
