@@ -1,4 +1,4 @@
-- 👋 Data Science & Analytics Lab-2 Tasks
+- 👋 Data Science & Analytics Lab- Tasks
 
 
 <!---
